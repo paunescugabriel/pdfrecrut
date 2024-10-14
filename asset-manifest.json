@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/paunescugabriel/CNPR/static/css/main.e07fdfba.css",
-    "main.js": "/paunescugabriel/CNPR/static/js/main.065ea1a4.js",
-    "static/media/img19.jpg": "/paunescugabriel/CNPR/static/media/img19.d05106e0baaf15378688.jpg",
-    "index.html": "/paunescugabriel/CNPR/index.html",
-    "main.e07fdfba.css.map": "/paunescugabriel/CNPR/static/css/main.e07fdfba.css.map",
-    "main.065ea1a4.js.map": "/paunescugabriel/CNPR/static/js/main.065ea1a4.js.map"
+    "main.css": "/pdfrecrut/static/css/main.e07fdfba.css",
+    "main.js": "/pdfrecrut/static/js/main.77cad072.js",
+    "static/media/img19.jpg": "/pdfrecrut/static/media/img19.d05106e0baaf15378688.jpg",
+    "index.html": "/pdfrecrut/index.html",
+    "main.e07fdfba.css.map": "/pdfrecrut/static/css/main.e07fdfba.css.map",
+    "main.77cad072.js.map": "/pdfrecrut/static/js/main.77cad072.js.map"
   },
   "entrypoints": [
     "static/css/main.e07fdfba.css",
-    "static/js/main.065ea1a4.js"
+    "static/js/main.77cad072.js"
   ]
 }
